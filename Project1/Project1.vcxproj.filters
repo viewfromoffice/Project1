@@ -21,7 +21,7 @@
     <ClCompile Include="include\glm\detail\glm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hello_triangle_shining-multi.cpp">
+    <ClCompile Include="hello_triangle_texture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -761,6 +761,9 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="resources\container.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\wall.jpg">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
