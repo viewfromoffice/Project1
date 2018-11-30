@@ -21,7 +21,7 @@
     <ClCompile Include="include\glm\detail\glm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hello_triangle_texture.cpp">
+    <ClCompile Include="hello_triangle_texture-multi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
