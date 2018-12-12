@@ -21,7 +21,7 @@
     <ClCompile Include="include\glm\detail\glm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cube_more.cpp">
+    <ClCompile Include="color.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
